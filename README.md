@@ -7,3 +7,5 @@ Dataset: [Energy Efficiency Dataset](https://www.kaggle.com/elikplim/eergy-effic
 Dataset: [Apple Tree Dataset](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/data)
 ## Depression analysis
 Dataset: [Depression Dataset](https://www.kaggle.com/arashnic/the-depression-dataset)
+## Energy Consumption
+Dataset: [Energy Consumption](https://www.kaggle.com/nicholasjhana/energy-consumption-generation-prices-and-weather)
